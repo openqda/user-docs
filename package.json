@@ -1,6 +1,6 @@
 {
-  "name": "openqda-userdocs",
-  "version": "0.0.0",
+  "name": "@openqda/user-docs",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
