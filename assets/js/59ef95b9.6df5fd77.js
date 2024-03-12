@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_openqda_user_docs=self.webpackChunk_openqda_user_docs||[]).push([[8061],{1966:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);

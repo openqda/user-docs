@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_openqda_user_docs=self.webpackChunk_openqda_user_docs||[]).push([[884],{9397:e=>{e.exports=JSON.parse('{"permalink":"/user-docs/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

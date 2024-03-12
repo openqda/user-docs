@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_openqda_user_docs=self.webpackChunk_openqda_user_docs||[]).push([[141],{5828:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/user-docs/blog/tags/docusaurus","allTagsPath":"/user-docs/blog/tags","count":4,"unlisted":false}')}}]);
