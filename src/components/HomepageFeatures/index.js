@@ -8,7 +8,7 @@ const FeatureList = [
     img: 'img/data_collection.png',
     description: (
       <>
-        Here you upload, create or import data.</br>
+        Here you upload, create or import data.
         In the Early Access, you can only import .txt and .rtf file types.
       </>
     ),
