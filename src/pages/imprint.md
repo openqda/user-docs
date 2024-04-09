@@ -1,9 +1,11 @@
 # Imprint
 ## Information according to §5 TMG
 
-Florian Hohmann <br />
 University of Bremen <br />
-Linzer Str. 6 <br />
+ZeMKI <br />
+Prof. Dr. Karsten D. Wolf <br />
+Prof. Dr. Andreas Hepp <br />
+Linzer Str. 4 <br />
 28359 Bremen
 
 ## Contact
