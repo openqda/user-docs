@@ -8,7 +8,6 @@ Linzer Str. 6 <br />
 
 ## Contact
 
-Phone: +49 421 / 218 67654 <br />
 E-Mail: OpenQDA@uni-bremen.de
 
 Responsible for the content according to § 55 Abs. 2 RStV <br />
