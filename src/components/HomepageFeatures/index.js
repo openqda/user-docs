@@ -8,7 +8,8 @@ const FeatureList = [
     img: 'img/data_collection.png',
     description: (
       <>
-        Some line on data collection
+        Here you upload, create or import data.
+        In the Early Access, you can only import .txt and .rtf file types.
       </>
     ),
   },
@@ -17,7 +18,7 @@ const FeatureList = [
     img: 'img/data_preparation.png',
     description: (
       <>
-        Some lines on data preparation
+        Here you prepare your data, e.g. you fix typos in your transcripts.
       </>
     ),
   },
@@ -26,7 +27,7 @@ const FeatureList = [
     img: 'img/data_coding.png',
     description: (
       <>
-        Some lines on coding
+        Here you code your data and create your code systems.
       </>
     ),
   },
@@ -35,7 +36,7 @@ const FeatureList = [
     img: 'img/data_analysis.png',
     description: (
       <>
-        Some lines on analysis
+        Here you analyse your coded data.
       </>
     ),
   }
