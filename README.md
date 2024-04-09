@@ -1,9 +1,15 @@
-# user-docs
+# OpenQDA User Documentation
+
 The user manual / documentation of OpenQDA
 
-# Website
+[![Deploy to GitHub Pages](https://github.com/openqda/user-docs/actions/workflows/deploy.yml/badge.svg)](https://github.com/openqda/user-docs/actions/workflows/deploy.yml)
+![GitHub License](https://img.shields.io/github/license/openqda/user-docs)
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+## Website
+
+The documentation is available under https://openqda.github.io/user-docs/
+
+It's built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
 
