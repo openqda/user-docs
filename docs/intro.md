@@ -10,15 +10,15 @@ Let's discover **OpenQDA in under 10 minutes**.
 
 Head over to [the OpenQDA website at openqda.org](https://openqda.org).
 
-IMG
+![Register to OpenQDA](/static/img/register_96dpi.PNG "Register Button")
 Click on the orange **Register** button.
 
 IMG
 Now fill out the register form with your name or pseudonym, your email and a secure password.
-Then click the **Register** button.
+Then confirm that you are not a robot (to your knowledge) and click the **Register** button.
 
 IMG
-A verification email should appear in your email program. Please click the link for verification.
+A verification email should have been sent to the email address you provided - please open it and click the link for verification.
 
 IMG
 Now that you are verified, you can either edit your profile or create a project.
