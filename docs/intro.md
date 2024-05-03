@@ -10,7 +10,7 @@ Let's discover **OpenQDA in under 10 minutes**.
 
 Head over to [the OpenQDA website at openqda.org](https://openqda.org).
 
-![Register to OpenQDA](/static/img/register_96dpi.PNG "Register Button")
+![Register to OpenQDA](../static/img/register_96dpi.png "Register Button")
 Click on the orange **Register** button.
 
 IMG
