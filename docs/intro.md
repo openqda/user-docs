@@ -28,10 +28,11 @@ Now that you are verified, you can log into OpenQDA with your mail address and p
 
 Your work in OpenQDA is organized in projects.
 
-IMG
-Fill out the project form and give Your first project a nice name (and optionally write a description).
+Fill out the project form and give your first project a nice name (and optionally write a description, for example your research question).
 Then click the **Create a new project** button.
-Your new project is created, and you go to the project tab. If you want to go back and create more projects or switch between projects, click on the little blue owl in the left corner (this will change in the next version of OpenQDA, because it is not self-evident).
+Your new project is created, and you go to the project tab. If you want to go back and create more projects or switch between projects, click on Qudi, the little blue owl, in the left corner (this will change in the next version of OpenQDA, because it is not self-evident).
+
+![Create a new project in OpenQDA](../static/img/create_project_96dpi.png "Creating a new project")
 
 ## Manage your project 
 
