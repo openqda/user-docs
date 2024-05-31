@@ -42,7 +42,7 @@ In the sub tab **Collaboration** you can set up your project to work with others
 
 In the sub tab **Codebook** you can manage different codebooks, share, reuse and import codebooks from other people. To create an empty codebook for your project, simply enter a name and optionally a description and click the blue "Create" button.
 
-> :bulb: **Tip:** OpenQDA gives you the option to share your codebooks with other users of the platform. To do so, click the little checkbox next to "Shared with public" when creating your codebook. It will then appear in the **Public Codebooks** section and others can import a copy of it into their projects. This will not have any effect on the codebook in *your* project.
+> :exclamation: **Please note:** OpenQDA gives you the option to share your codebooks with other users of the platform. To do so, click the little checkbox next to "Shared with public" when creating your codebook. It will then appear in the **Public Codebooks** section and others can import a copy of it into their projects. This will not have any effect on the codebook in *your* project.
 
 In the sub tab **History** you see a full log of all actions within the project.
 
@@ -52,12 +52,13 @@ In the sub tab **History** you see a full log of all actions within the project.
 
 ## Upload and prepare a text file
 
-Let's upload and prepare our first text file for coding (right now, OpenQDA only supports RTF and TXT files - NO .doc, .docx or .pdf files!).
-Please click on the **Preparation** tab at the top of the page.
+Great work on creating your first project! But that project is still empty. To change that, let's upload our first text file and prepare it for coding. To do so, switch to the "Preparation" tab. That's the second tab from the left on top of your screen.
 
-IMG
-Now you can import TXT or RTF files into OpenQDA (as OpenQDA has a plug-in architecture, we or other people of the community may create import plug-ins for other file formats).
-Click the **Import** button to select a TXT or RTF file. Click on the title of the document to see the contents of the file in the editor in the right pane. Now you can edit the document.
+> :exclamation: **Please note** At the moment, OpenQDA only supports *.RTF and *.TXT files. Other common file formats, like *.DOC, *.DOCX or *.PDF files might be supported at a later date. OpenQDA has a plug-in architecture: We, you, or other people in the community are able create import plug-ins for other file formats.
+
+Now, to upload an existing file, click the **Import** button to select a *.TXT or *.RTF file. Click on the title of the document to see the contents of the file in the editor in the right pane. Now you can edit the document.
+
+
 
 You can also create new text documents when you click **New file**. You can then paste your text contents into the new document.
 
