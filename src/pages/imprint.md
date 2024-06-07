@@ -10,7 +10,7 @@ Linzer Str. 4 <br />
 
 ## Contact
 
-E-Mail: OpenQDA@uni-bremen.de
+E-Mail: openqda@uni-bremen.de
 
 Responsible for the content according to § 55 Abs. 2 RStV <br />
 Florian Hohmann
