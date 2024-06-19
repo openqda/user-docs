@@ -9,7 +9,6 @@ const FeatureList = [
     description: (
       <>
         Here you upload, create or import data.
-        In the Early Access, you can only import .txt and .rtf file types.
       </>
     ),
   },
