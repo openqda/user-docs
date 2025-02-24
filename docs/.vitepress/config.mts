@@ -49,7 +49,13 @@ export default defineConfig({
       {
         text: 'QDA Workflow',
         items: [
-          { text: 'Preparation', link: '/workflow/preparation' },
+          { text: 'Preparation',
+            items: [
+              { text: 'Adding sources', link: '/workflow/preparation/add_sources'},
+              { text: 'Source states', link: '/workflow/preparation/states'},
+              { text: 'Managing sources', link: '/workflow/preparation/manage_sources'},
+            ]
+          },
           { text: 'Coding', link: '/workflow/coding' },
           { text: 'Analysis', link: '/workflow/analysis' },
           { text: 'Publishing', link: '/workflow/publications' },
@@ -80,31 +86,5 @@ export default defineConfig({
         timeStyle: 'medium'
       }
     }
-  },
-  cacheDir: './.vitepress/.vite',
-  srcExclude: ['**/README.md', '**/TODO.md', '../', '.github', 'node_modules', '.git'],
-  vite: {
-    build: {
-      watch: {
-        ignored: [
-          '.idea',
-          '.deploy',
-          '.git',
-          '.github',
-          'app/**',
-          'vendor/**',
-          'bootstrap/**',
-          'config/**',
-          'data/**',
-          'database/**',
-          'docker/**',
-          'routes/**',
-          'storage/**',
-          'stories/**',
-          'node_modules/**',
-          'public/**'
-        ]
-      }
-    },
   }
 })

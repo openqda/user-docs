@@ -1,4 +1,22 @@
-# Manage your project
+# Manage your projects
+OpenQDA lets you organize your work in projects.
+This pages intends to present you the main project management features.
+
+## Select a project
+After you successfully signed in to OpenQDA you may find 
+there is no current project selected:
+
+![project overview](../public/img/create_project/unselected.png)
+
+In this case you will not be able to navigate to preparation, coding or analysis and
+you will have to select an existing project [or create a new one](./create.md).
+
+## Overview
+This is the default for a selected project.
+Here you can edit your project information or delete the entire project, including all it's data.
+
+![project overview](../public/img/create_project/project_overview.png)
+
 Your project is organized in different views:
 - [Overviev](#overview)
 - [Collaboration](./teams.md)
@@ -7,12 +25,6 @@ Your project is organized in different views:
 
 Each comes with own features, functionality and complexity,
 which we want to present you in the following sections.
-
-## Overview
-The default view when selecting a project is the overview tab.
-In this view you can edit your project information or delete the entire project, including all it's data.
-
-![project overview](../public/img/create_project/project_overview.png)
 
 
 ## Delete a project
