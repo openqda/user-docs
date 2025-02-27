@@ -1,13 +1,5 @@
-# Preparation
-This part of the workflow deals with all the preparations of your Sources.
-A source in [REFI](../../refi.md) can be any material that is subject to your coding and analysis,
-ranging from text files to media, such as audio and video or custom complex formats.
-
-> [!NOTE]
-> For now OpenQDA supports only text-based Sources, as well as Audio, which is transcribed to text.
-> Future releases may increase the set of supported source formats.
-
-
+# Adding sources
+OpenQDA provides you multiple ways to add sources to your project.
 
 ## Create a new Source
 You can create a new empty (text-) source by clicking on the "+ Create" button on the left panel.
@@ -45,6 +37,8 @@ on its text to open the classic file select dialog of your operating system.
 
 > [!NOTE]
 > Currently, this dialog only supports plain text files, RTF and audio files (which are transcribed to text).
+> A future goal is to support most text-based formats.
+> [You can help to add this feature by contributing to OpenQDA](https://github.com/openqda/openqda)
 
 Once the files are selected you get a list if all files, prepared for upload:
 ![create new source](../../public/img/preparation/import_decide.png)
@@ -60,12 +54,12 @@ At this stage you have multiple options for your next step:
 Once you click "Start upload" the dialog will close and new sources are created immediately.
 However, they will not be available right away. Each of them will go through a cycle of steps before
 becoming available to further editing (see [the states section for icon meaning, state and description](./states.md))
+
 ![create new source](../../public/img/preparation/uploading.png)
 
 The upload runs in the background, and you are free to navigate to other pages within OpenQDA.
+You will receive a notification (in the top right corner), once a file is ready.
 
 > [!WARNING]
-> However, once you force-reload a page, all the files that remain to be uploaded will be gone.
+> If you force-reload a page, all the files that remain to be uploaded will be gone.
 > Files in converting state, though are expected to be available, once ready.
-
-You will receive a notification (in the top right corner), once a file is ready.

@@ -6,6 +6,8 @@ It is developed by the [ZeMKI (Centre for Media, Communication and Information R
 at the [University of Bremen](https://www.uni-bremen.de/) and publicly available under https://openqda.org.
 There, it is hosted at the university's infrastructure.
 
+[![qdi logo](https://github.com/openqda/.github/blob/main/profile/zemki-und-uni-logo-weiss-1x.png?raw=true)](https://zemki.uni-bremen.de/)
+
 ## Software Freedom
 
 OpenQDA intends to be as free as possible. This means for you, that

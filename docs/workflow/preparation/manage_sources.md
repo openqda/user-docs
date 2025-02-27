@@ -27,11 +27,17 @@ will then navigate you to the coding page.
 
 ![lock for coding dialog](../../public/img/preparation/lock_for_coding.png)
 
-> [!NOTE]
-> For now there is no way to switch between coding and source editing.
-> Future versions might support this, though.
+> [!WARNING]
+> Locked sources cannot be edited until they are unlocked.
+> However, unlocking will currently result in selections being deleted,
+> because all indexes would otherwise be broken.
+> 
+> A future goal is to do proper offset computation in order to
+> fluently switch between preparation and coding.
+> [You can help to add this feature by contributing to OpenQDA](https://github.com/openqda/openqda)
 
 ## Unlock
+Once locked for coding, a source is
 
 ## Source actions
 Every entry in the source list reveals an actions menu button (three vertical dots).

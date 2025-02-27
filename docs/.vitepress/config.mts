@@ -51,14 +51,22 @@ export default defineConfig({
         items: [
           { text: 'Preparation',
             items: [
+              { text: 'Overview', link: '/workflow/preparation/overview'},
               { text: 'Adding sources', link: '/workflow/preparation/add_sources'},
               { text: 'Source states', link: '/workflow/preparation/states'},
               { text: 'Managing sources', link: '/workflow/preparation/manage_sources'},
+              { text: 'Editing a source', link: '/workflow/preparation/editing'},
             ]
           },
-          { text: 'Coding', link: '/workflow/coding' },
-          { text: 'Analysis', link: '/workflow/analysis' },
-          { text: 'Publishing', link: '/workflow/publications' },
+          { text: 'Coding',
+            items: [
+              { text: 'Overview', link: '/workflow/coding/overview'},
+              { text: 'Managing Codes', link: '/workflow/coding/codes'},
+              { text: 'Selections', link: '/workflow/coding/selections'},
+            ]
+          },
+          { text: 'Analysis', link: '/workflow/analysis/overview'},
+          { text: 'Publishing', link: '/workflow/publications'},
         ]
       },
       {
