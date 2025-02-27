@@ -23,7 +23,8 @@ Belli, A., Küster, J., Matayeva, L., Hohmann, F., Sinner, P., Krüger, G., Wolf
 OpenQDA (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.14772936
 ```
 
-We also provide a [citation file](./CITATION.cff) to enable automated citations of this work.
+We also provide a [citation file](https://github.com/openqda/openqda/blob/main/CITATION.cff)
+to enable automated citations of this work.
 
 ## License implications for your publications
 OpenQDA is free software, as it is licensed under the [AGPL-3.0 license](https://www.gnu.org/licenses/agpl-3.0.en.html).

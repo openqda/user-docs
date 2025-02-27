@@ -23,7 +23,7 @@ OpenQDA gives you the option to share your codebooks with other users on the pla
 
 To do so, either create or edit a codebook and select for the option "Shared with others" the entry "Shared with public".
 
-![share a codebook](../public/img/codeboooks/share.png)
+![share a codebook](../public/img/codebooks/share.png)
 
 It will then appear in the [Public Codebooks](#public-shared-codebooks) section, unless it's used in a current project
 (because it then appears in "Codebooks of current Project").
