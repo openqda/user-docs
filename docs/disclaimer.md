@@ -6,7 +6,7 @@
 
 ## Destructive actions
 Several actions that cause a deletion (of Codes, Selections, Projects, Codebooks, Source etc.) are **finite and permanent**.
-There is way to restore them after deleting, even not for administrators.
+There is no way to restore them after deleting, even not for administrators.
 
 Be aware of this during your work when attempting to delete something.
 
