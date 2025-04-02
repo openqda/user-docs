@@ -25,7 +25,7 @@ features:
   - title: Your feedback matters!
     details: OpenQDA thrives by incorporating what the QDA community needs. For that we need your feedback to
     icon: 📢
-    link: https://github.com/openqda/feedback/
+    link: https://github.com/orgs/openqda/discussions
     linkText: Give feedback and join the discussion
   - title: Join the development!
     details: OpenQDA is publicly developed on GitHub, contributions are welcomed!
