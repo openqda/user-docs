@@ -18,6 +18,11 @@ others are associated "line by line".
 
 ![line blocks](../../public/img/preparation/line_blocks.png)
 
+## REFI Default
+The REFI standard does only consider start position and end position as
+standard-compliant fields for text selections.
+We considered this as a strong indicator against a line-based representation.
+
 ## Selection ranges
 We decided the range of selected characters as a reproducible way to determine
 selections of codes across device types and screen sizes.

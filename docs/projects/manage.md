@@ -8,12 +8,18 @@ on the projects icon on the [navigation bar](../ui.md).
 
 Every [created project](./create.md) is listed on the left panel
 and contains the project name, the date of last update and
-some icons.
+some icons:
 
 ![project entry example](../public/img/create_project/entry.png)
 
-The key icon indicates projects created by yourself, while the users-icon
-indicates projects with [teams](./teams.md).
+The **key icon** indicates projects created by yourself. 
+If you were added to a project by another member then this icon
+will not be displayed.
+
+This **users-icon** indicates that a project has a [teams](./teams.md).
+
+The **documents icon** shows the number of [Sources](../workflow/preparation/overview.md#sources)
+you (or your team members) have already added to this project.
 
 ## Select a project
 After you successfully signed in to OpenQDA you may find 
@@ -28,8 +34,9 @@ Click on a project entry to select it as the current project, which in turn
 opens the project management views in the right panel.
 
 ## Overview
-This is the default for a selected project.
-Here you can edit your project information or delete the entire project, including all it's data.
+This is the default view for a selected project.
+Here you can edit your project information,
+view and select the added sources, or delete the entire project, including all it's data.
 
 ![project overview](../public/img/create_project/project_overview.png)
 
