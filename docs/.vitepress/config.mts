@@ -34,6 +34,7 @@ export default defineConfig({
         items: [
           { text: 'Create a new Account', link: '/registration' },
           { text: 'The User Interface', link: '/ui' },
+          { text: 'Your User Profile', link: '/profile' },
           { text: 'Create your first project', link: '/projects/create' },
         ]
       },
@@ -62,6 +63,7 @@ export default defineConfig({
             items: [
               { text: 'Overview', link: '/workflow/coding/overview'},
               { text: 'Managing Codes', link: '/workflow/coding/codes'},
+              { text: 'Sorting Codes', link: '/workflow/coding/sorting'},
               { text: 'Selections', link: '/workflow/coding/selections'},
             ]
           },
@@ -74,6 +76,7 @@ export default defineConfig({
         items: [
           { text: 'Imprint', link: '/imprint' },
           { text: 'Privacy / GDPR', link: '/privacy' },
+          { text: 'Research', link: '/research' },
           { text: 'Disclaimer', link: '/disclaimer' },
           { text: 'Code of Conduct', link: '/coc' },
           { text: 'Contact', link: '/contact' },

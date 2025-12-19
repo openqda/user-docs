@@ -21,20 +21,7 @@ will load its content into the editor (right panel).
 See [editing sources](./editing.md).
 
 ## Lock for coding
-Once your source is ready for coding, you can click on the "Lock for coding" button,
-located in the top-right of the right panel. It will open a dialog for you to confirm and
-will then navigate you to the coding page.
-
-![lock for coding dialog](../../public/img/preparation/lock_for_coding.png)
-
-> [!WARNING]
-> Locked sources cannot be edited until they are unlocked.
-> However, unlocking will currently result in selections being deleted,
-> because all indexes would otherwise be broken.
-> 
-> A future goal is to do proper offset computation in order to
-> fluently switch between preparation and coding.
-> [You can help to add this feature by contributing to OpenQDA](https://github.com/openqda/openqda)
+We moved this to an own section. Please read on [locking sources for coding](./locking.md).
 
 ## Unlock
 Once locked for coding, a source is

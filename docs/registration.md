@@ -9,17 +9,19 @@ to create an account by clicking on "Create an account":
 
 ## Fill out the registration form
 Now fill out the register form with your name or pseudonym, your email and a secure password.
+You will have to confirm that you read and accept the terms of service and privacy policy.
+Optionally, you can [participate in research](./research.md) by accepting the research consent.
 Then confirm that you are not a robot (to your knowledge) and click the **Register** button.
 
 
 ![registration form](./public/img/register/form.png)
 > :bulb: **Tip:** While currently it is only required that your password consists of a minimum of eight characters, we recommend using a mix of letters, numbers and special characters.
 
-You might have notices the "Checking if yu are a human" section and wonder whether this
+You might have noticed the "Checking if you are a human" section and wonder whether this
 is using a third-party tool with privacy implications.
 We are not sending data to third parties and the tool (https://altcha.org) is a self-hosted,
 privacy aware alternative to commercial tools.
- 
+
 
 ## Verify your account
 
