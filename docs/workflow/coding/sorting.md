@@ -10,7 +10,7 @@ being active.
 ![sorted codes](../../public/img/coding/sorting_mode.png)
 
 Now you can now sort codes, simply via drag and drop.
-Note, that moving a code will preserver it's children.
+Note, that moving a code will preserve its children.
 
 > :warning: Don't forget to deactivate sorting after you are done by clicking on the sorting icon again.
 

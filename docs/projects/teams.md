@@ -17,7 +17,7 @@ with their OpenQDA account and click on "Add team member".
 
 A confirmation message will appear, if the email address was found
 and the team member was successfully added.
-Additionally, the added receives a notification email about them being added to the team. 
+Additionally, the added team member receives a notification email about being added to the team. 
 
 > [!CAUTION]
 > ⚠️ For now all team members have the same permission on the project,
