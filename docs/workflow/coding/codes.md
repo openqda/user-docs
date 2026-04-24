@@ -1,5 +1,5 @@
 # Managing codes
-Codes are an essential part of you QDA.
+Codes are an essential part of your QDA.
 This page explains how you can manage your codes in OpenQDA.
 
 
@@ -58,7 +58,7 @@ Moved to [sorting codes](./sorting.md).
 
 In order to delete a code you need to open its menu (three vertical dots) and select "Delete this code".
 A dialog will appear, warning you about the consequences of this action.
-You will have enter the exact name of the code (case and white space sensitive) in order
+You will have to enter the exact name of the code (case and white space sensitive) in order
 to activate the "Delete" button, which you have to click in order to confirm the deletion.
 
 ![delete code dialog](../../public/img/coding/delete_code.png)

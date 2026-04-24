@@ -12,7 +12,7 @@ once you start coding your first source.
 ![empty codebooks](../public/img/codebooks/empty.png)
 
 ## Edit a codebook
-In order to edit a codebook you need to locate it on the page an click on its menu button (three vertical dots).
+In order to edit a codebook you need to locate it on the page and click on its menu button (three vertical dots).
 
 ![edit a codebook](../public/img/codebooks/edit.png)
 
@@ -34,7 +34,7 @@ Their import will not have any effect on the codebook in *your* project.
 
 ## Adding codes
 
-> [!NOTE] For now, you can only add codes to a codebook when being in the [coding view](../workflow/coding.md).
+> [!NOTE] For now, you can only add codes to a codebook when being in the [coding view](../workflow/coding/overview.md).
 > In the future we may provide the ability to add/sort codes for a codebook in this view, too.
 
 
@@ -63,7 +63,7 @@ on the top-right of the view and follow the dialog to select the file from your 
 
 ![upload maxqda codebook](../public/img/codebooks/upload_maxqda.png)
 
-Click on "Upload now" and wait until the upload is processed. Depending on your codebook size an
+Click on "Upload now" and wait until the upload is processed. Depending on your codebook size and
 structure, this may take a while. Please do not navigate away from the page until the upload
 is complete.
 

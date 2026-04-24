@@ -40,14 +40,14 @@ on its text to open the classic file select dialog of your operating system.
 > A future goal is to support most text-based formats.
 > [You can help to add this feature by contributing to OpenQDA](https://github.com/openqda/openqda)
 
-Once the files are selected you get a list if all files, prepared for upload:
+Once the files are selected, you get a list of all files prepared for upload:
 ![create new source](../../public/img/preparation/import_decide.png)
 
 At this stage you have multiple options for your next step:
 
 - add more files → repeat the [last step](#add-files-to-upload)
 - remove added files → click the little cross on the very right of the file's entry
-- cancel the dialog → click the little cross in the top-right corner of the dialog; no upload will invoke
+- cancel the dialog → click the little cross in the top-right corner of the dialog; no upload will be started
 - start the upload → see the next step
 
 #### Uploading files

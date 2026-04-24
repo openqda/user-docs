@@ -23,7 +23,7 @@ features:
     link: https://openqda.org/
     linkText: Register now
   - title: Your feedback matters!
-    details: OpenQDA thrives by incorporating what the QDA community needs. For that we need your feedback to
+    details: OpenQDA thrives by incorporating what the QDA community needs. For that, we need your feedback.
     icon: 📢
     link: https://github.com/orgs/openqda/discussions
     linkText: Give feedback and join the discussion
@@ -33,7 +33,7 @@ features:
     link: https://github.com/openqda/openqda/
     linkText: To OpenQDA on GitHub
   - title: Hosted in Germany
-    details: OpenQDA is developed and hosted at the ZeMKI, University of Bremen, Germany 
+    details: OpenQDA is developed and hosted at the ZeMKI, University of Bremen, Germany
     icon:
       src: https://github.com/openqda/.github/blob/main/profile/zemki-und-uni-logo-weiss-1x.png?raw=true
       alt: ZeMKI and Uni Bremen Logo

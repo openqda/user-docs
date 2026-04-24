@@ -1,5 +1,5 @@
 # Selections
-Annotating your sources with codes results in a "section" (as defined by [REFI](../../refi.md)).
+Annotating your sources with codes results in a "selection" (as defined by [REFI](../../refi.md)).
 In text sources, selections are defined by a **range** (from start index to end index; indexes inclusive),
 depicted by the pattern `<start index>:<end index>`.
 
@@ -9,14 +9,14 @@ Consider the following sentence:
 The quick brown fox jumps over the lazy dog.
 ```
 
-The sentence itself is 45 of length, starting at index 0 and ending at index 44.
+The sentence itself is 45 characters long, starting at index 0 and ending at index 44.
 If you'd select the word 'fox', the range would be defined as `16:19`, because it starts at index 16 
 and spans over three characters, thus ending on index 19.
 
 Note, we purposely [decided against lines](../preparation/editing.md#editor-lines) as measurement of 
 selection positions.
 
-## Why does the index starts at zero?
+## Why does the index start at zero?
 If you wonder why it starts at zero instead of one, there are two answers.
 
 The simple answer: computers naturally count from 0, and it would be highly prone

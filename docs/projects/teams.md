@@ -34,7 +34,7 @@ want your team to continue to work on the project.
 
 ## Deleting the team
 Deleting the team will remove all non-owners from the project, causing
-them no not access the project data anymore.
+them to no longer be able to access the project data.
 Be aware of this fact, when making another person owner of the project.
 
 Click on "Delete Team" to invoke the deletion prompt and enter the exact team name

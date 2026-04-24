@@ -18,14 +18,14 @@ There is no guarantee for a 24/7 availability of OpenQDA, due to several circums
 
 ## Stability and Validity
 We are working constantly on improving OpenQDA.
-However, we can not provide you a legally binding guarantee for OpenQDA to work 100% valid and reliable.
+However, we cannot provide you with a legally binding guarantee that OpenQDA will be 100% valid and reliable.
 Take this into consideration and do all your QDA steps with care.
 
 If you think you found parts of OpenQDA that do not work as expected or are subject
 of threat to your research, please do not hesitate to [contact us](./contact.md)!
 
 ## Exclusion of Platform
-Your account can be suspended or excluded at any times, especially if we detect inappropriate or illegal behavior,
+Your account can be suspended or excluded at any time, especially if we detect inappropriate or illegal behavior,
 such as (among others):
 - attempts to penetrate the system, inject malicious data, gain access to the server, abuse known or unknown security vulnerabilities or destroy the system
 - upload any data or content, that is by its definition illegal within the European Union or the country where you currently reside in

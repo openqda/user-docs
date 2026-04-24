@@ -1,5 +1,5 @@
 # Managing Sources
-This page assumes, you have already added at least once source to your project.
+This page assumes you have already added at least one source to your project.
 If you haven't yet, then you should first [add a source](./add_sources.md).
 
 Sources management relies on the [two panels](../../ui.md).
@@ -21,13 +21,16 @@ will load its content into the editor (right panel).
 See [editing sources](./editing.md).
 
 ## Lock for coding
-We moved this to an own section. Please read on [locking sources for coding](./locking.md).
+We moved this to its own section. Please read on [locking sources for coding](./locking.md).
 
 ## Unlock
-Once locked for coding, a source is
+Once locked for coding, a source becomes read-only.
+To unlock it, click the "Unlock" button.
+Note, that unlocking currently deletes all associated selections, but not the codes.
+In the future we will provide the option to keep the selections, too.
 
 ## Source actions
-Every entry in the source list reveals an actions menu button (three vertical dots).
+Every entry in the source list reveals an action menu button (three vertical dots).
 Clicking it will open a dropdown menu with various items, depending on the source's [state](./states.md).
 
 ![open source's menu](../../public/img/preparation/source_menu.png)

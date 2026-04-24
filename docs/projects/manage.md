@@ -1,6 +1,6 @@
 # Manage your projects
 OpenQDA lets you organize your work in projects.
-This pages intends to present you the main project management features.
+This page intends to present the main project management features.
 
 ## Project page and entries
 Your projects are listed on the projects page, which you can reach by clicking
@@ -16,7 +16,7 @@ The **key icon** indicates projects created by yourself.
 If you were added to a project by another member then this icon
 will not be displayed.
 
-This **users-icon** indicates that a project has a [teams](./teams.md).
+This **users icon** indicates that a project has a [team](./teams.md).
 
 The **documents icon** shows the number of [Sources](../workflow/preparation/overview.md#sources)
 you (or your team members) have already added to this project.
@@ -36,12 +36,12 @@ opens the project management views in the right panel.
 ## Overview
 This is the default view for a selected project.
 Here you can edit your project information,
-view and select the added sources, or delete the entire project, including all it's data.
+view and select the added sources, or delete the entire project, including all its data.
 
 ![project overview](../public/img/create_project/project_overview.png)
 
 Your project is organized in different views:
-- [Overviev](#overview)
+- [Overview](#overview)
 - [Collaboration](./teams.md)
 - [Codebooks](./codebooks.md)
 - [History](./history.md)
@@ -66,5 +66,5 @@ The delete button will only become clickable, when the project name is entered a
 ![delete project prompt](../public/img/create_project/delete_active.png)
 
 Now you can click on "Delete". The project and all its data is deleted, and you will
-be redirected to projects overview, where no project is selected.
+be redirected to the project overview, where no project is selected.
 
