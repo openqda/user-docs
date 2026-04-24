@@ -33,7 +33,7 @@ The "cleanup" tab, lists any selections, codes or codebooks, that might contain 
 lead to non-existing targets. You will likely never need this functionality unless you are actively informed about it
 by OpenQDA.
 
-### Right panel: selection management
+### Right panel: Selection Management
 The right panel focuses entirely on managing selections.
 Assignments of codes to parts of sources is commonly referred to as coding. In OpenQDA, however these assignments
 are not named "codes" but "selections".
@@ -57,3 +57,7 @@ source as you do/did.
 
 Additionally, there are the start and end position of the current selection displayed,
 indicating to which character range a coding will apply.
+
+#### 3. Notes Management
+
+The right panel also provides the Notes management for the **current** Source, which is described in more detail on the [notes management page](../preparation/notes.md).
