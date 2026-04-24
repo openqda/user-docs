@@ -136,7 +136,7 @@ dist
 /build
 
 # Generated files
-
+/docs/.vitepress/cache/
 
 # Misc
 .DS_Store
