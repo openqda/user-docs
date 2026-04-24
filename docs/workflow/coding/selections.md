@@ -74,6 +74,37 @@ and related code.
 
 ![overlapping selections](../../public/img/coding/overlapping.png)
 
+## Manage Notes for Selections
+
+You can also manage Notes for selections, which are displayed as a list in the selection entry.
+The number of Notes is displayed next to the chat bubble icon.
+
+> [!NOTE]
+> Notes for Selections exist only for the given selection, 
+> so they are not related to the Code itself but to the specific assignment of the code to the source.
+> Team-shared Notes for a Selection do only show up, if the selection is also shared with the team.
+
+![notes in selections](../../public/img/coding/notes_selection_list.png)
+
+> [!NOTE]
+> Do not confuse the Selection Notes with the Code Notes.
+> The Selection Notes will not count up the numbers next to the Code Notes.
+
+### Notes in the Selection Menu
+
+If you right-click on a selection you will see the selection menu.
+There you can also manage notes the same way you do in the Code menu.
+
+![notes in selections menu](../../public/img/coding/notes_selection_menu.png)
+
+
+### Notes for Selections in the Editor
+
+If a paragraph contains a Selection with Notes, you will see a black underline of the selection, as well
+as a black background of the paragraph number.
+
+![notes in selections editor](../../public/img/coding/notes_selection_editor.png)
+
 ## Deleting a selection
 If you right-click on a selection you will see the selection menu.
 There you are able to select a new code for the given selection.
