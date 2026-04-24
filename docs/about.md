@@ -15,7 +15,7 @@ OpenQDA intends to be as free as possible. This means for you, that
 - you are free to use our hosted version
 - you are free to get the software and host it on your own infrastructure
 - you are free to change, distribute and anything else, allowed by the software license
-- you are free to publish you data, processed within OpenQDA (other rules and laws about scientific practice and
+- you are free to publish your data, processed within OpenQDA (other rules and laws about scientific practice and
   publishing data remain untouched)
 
 ## QDA Workflow

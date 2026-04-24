@@ -1,5 +1,5 @@
 # Selections
-Annotating your sources with codes results in a "section" (as defined by [REFI](../../refi.md)).
+Annotating your sources with codes results in a "selection" (as defined by [REFI](../../refi.md)).
 In text sources, selections are defined by a **range** (from start index to end index; indexes inclusive),
 depicted by the pattern `<start index>:<end index>`.
 
@@ -9,14 +9,14 @@ Consider the following sentence:
 The quick brown fox jumps over the lazy dog.
 ```
 
-The sentence itself is 45 of length, starting at index 0 and ending at index 44.
+The sentence itself is 45 characters long, starting at index 0 and ending at index 44.
 If you'd select the word 'fox', the range would be defined as `16:19`, because it starts at index 16 
 and spans over three characters, thus ending on index 19.
 
 Note, we purposely [decided against lines](../preparation/editing.md#editor-lines) as measurement of 
 selection positions.
 
-## Why does the index starts at zero?
+## Why does the index start at zero?
 If you wonder why it starts at zero instead of one, there are two answers.
 
 The simple answer: computers naturally count from 0, and it would be highly prone
@@ -73,6 +73,37 @@ Hovering or right-clicking this range will reveal all involved selections, inclu
 and related code.
 
 ![overlapping selections](../../public/img/coding/overlapping.png)
+
+## Manage Notes for Selections
+
+You can also manage Notes for selections, which are displayed as a list in the selection entry.
+The number of Notes is displayed next to the chat bubble icon.
+
+> [!NOTE]
+> Notes for Selections exist only for the given selection, 
+> so they are not related to the Code itself but to the specific assignment of the code to the source.
+> Team-shared Notes for a Selection do only show up, if the selection is also shared with the team.
+
+![notes in selections](../../public/img/coding/notes_selection_list.png)
+
+> [!NOTE]
+> Do not confuse the Selection Notes with the Code Notes.
+> The Selection Notes will not count up the numbers next to the Code Notes.
+
+### Notes in the Selection Menu
+
+If you right-click on a selection you will see the selection menu.
+There you can also manage notes the same way you do in the Code menu.
+
+![notes in selections menu](../../public/img/coding/notes_selection_menu.png)
+
+
+### Notes for Selections in the Editor
+
+If a paragraph contains a Selection with Notes, you will see a black underline of the selection, as well
+as a black background of the paragraph number.
+
+![notes in selections editor](../../public/img/coding/notes_selection_editor.png)
 
 ## Deleting a selection
 If you right-click on a selection you will see the selection menu.

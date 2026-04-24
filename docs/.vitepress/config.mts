@@ -57,6 +57,7 @@ export default defineConfig({
               { text: 'Source states', link: '/workflow/preparation/states'},
               { text: 'Managing sources', link: '/workflow/preparation/manage_sources'},
               { text: 'Editing a source', link: '/workflow/preparation/editing'},
+              { text: 'Manage Notes', link: '/workflow/preparation/notes'},
             ]
           },
           { text: 'Coding',

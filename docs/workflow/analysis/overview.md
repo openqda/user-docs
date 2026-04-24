@@ -52,7 +52,7 @@ upper left corner and selecting the desired visualization.
 
 ### Code Portrait
 
-The code portrait renders the all occurrences of selections of a given code in 
+The code portrait renders all occurrences of selections of a given code in
 all included documents in their ascending order of their starting point.
 
 Depending on the amount of sources and selections you might want to

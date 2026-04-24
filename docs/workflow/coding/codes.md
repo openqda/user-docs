@@ -1,5 +1,5 @@
 # Managing codes
-Codes are an essential part of you QDA.
+Codes are an essential part of your QDA.
 This page explains how you can manage your codes in OpenQDA.
 
 
@@ -47,6 +47,35 @@ There you can adjust several properties, such as name, description, color or par
 ## Sorting codes and change hierarchy
 Moved to [sorting codes](./sorting.md).
 
+## Manage Notes
+
+Each Code can have an arbitrary number of Notes, which are displayed as a list in the code entry.
+The number of Notes is displayed next to the chat bubble icon.
+If the icon is gray, but a number is displayed, then the notes belong to one of the subcodes of the code entry.
+
+![notes in codes](../../public/img/coding/notes_codes_overview.png)
+
+> [!NOTE]
+> Notes for Codes exist across all Sources, so they are not related to a specific Source but to the Code itself.
+> They also exist independently of the Selections and Notes, made to Selections.
+
+## Add a Note to a Code
+
+You can attach a Note to a Code, by opening the menu of the code and selecting "Add Note".
+This will open a dialog with a form, where you can write down your thoughts about the Code.
+
+![add note to code](../../public/img/coding/notes_codes_add.png)
+
+### Show Attached Notes
+
+If a code has attached notes, you can open the list of notes by clicking on the chat bubble icon.
+This will open a dialog with a list of all notes attached to the code.
+
+![show notes of code](../../public/img/coding/notes_codes_list.png)
+
+The Notes from other team members are displayed in the same list if they were set to be visible for the team.
+While you can edit and delete your own notes, you can only view the notes of other team members.
+
 ## Deleting codes
 
 > [!CAUTION]
@@ -58,7 +87,7 @@ Moved to [sorting codes](./sorting.md).
 
 In order to delete a code you need to open its menu (three vertical dots) and select "Delete this code".
 A dialog will appear, warning you about the consequences of this action.
-You will have enter the exact name of the code (case and white space sensitive) in order
+You will have to enter the exact name of the code (case and white space sensitive) in order
 to activate the "Delete" button, which you have to click in order to confirm the deletion.
 
 ![delete code dialog](../../public/img/coding/delete_code.png)

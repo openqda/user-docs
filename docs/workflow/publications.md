@@ -13,7 +13,7 @@ Every released version of OpenQDA obtains a new DOI from Zenodo. This allows you
 the very specific version you have used. The live version at https://openqda.org is always
 using the latest release.
 
-there is also a base DOI for the project as a whole,
+There is also a base DOI for the project as a whole,
 which will always redirect to the latest current release: https://doi.org/10.5281/zenodo.11195871
 
 If you prefer manual citation, then please use the following citation example (APA style):
