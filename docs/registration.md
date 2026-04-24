@@ -29,7 +29,7 @@ A verification email should have been sent to the email address you provided - p
 verify your email address and complete the registration process.
 Please also check the spam/junk folders to make sure you received the email in time.
 
-![verification via email](./public/img/register/form.png)
+![verification via email](./public/img/register/verify.png)
 
 Now that you are verified, you can log into OpenQDA with your mail address and password and start using the software by
 either editing your profile or creating a new project for data analysis.
