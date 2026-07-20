@@ -61,3 +61,7 @@ indicating to which character range a coding will apply.
 #### 3. Notes Management
 
 The right panel also provides the Notes management for the **current** Source, which is described in more detail on the [notes management page](../preparation/notes.md).
+
+#### 4. Variables Management
+
+The right panel also provides the Variables management for the **current** Source, which is described in more detail on the [Variables management page](../preparation/variables.md).

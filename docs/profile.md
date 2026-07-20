@@ -42,8 +42,11 @@ sessions" button next to each session. You will remain logged in on the current 
 
 ## Delete your account
 
-> :alert: Danger zone! Deleting your account is permanent and will remove all your data from our servers.
-> This action cannot be undone. We cannot recover your account or any associated data once it has been deleted.
+
+::: danger
+Danger zone! Deleting your account is permanent and will remove all your data from our servers.
+This action cannot be undone. We cannot recover your account or any associated data once it has been deleted.
+:::
 
 You can delete your account by clicking the "Delete account" button at the bottom of the page.
 The delete button is disabled as long as there are teams you are the owner of with active members.
